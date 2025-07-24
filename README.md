@@ -1,37 +1,49 @@
 # 🧮 Kamlesh Calculator
 
-A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript**.  
-Designed to perform basic arithmetic operations with a clean user interface and responsive layout.
+A clean and modern calculator built using **HTML**, **CSS**, and **JavaScript**.  
+Designed to handle basic arithmetic operations in a stylish dark theme.
 
-![Calculator Preview](https://raw.githubusercontent.com/KAMLESHYADAV1122/calculator/main/preview.png)
+![Calculator Preview](https://drive.google.com/uc?export=view&id=12Hv8IuTgCmKKA6M87NIaGEn-Agoi6J_k)
 
 ---
 
 ## 🚀 Features
 
-- Basic arithmetic: `+`, `-`, `*`, `/`
-- Clean and dark-themed UI
-- Responsive layout (works well on mobile and desktop)
-- Keyboard and button input support
-- `AC` to clear all
-- `DEL` to delete a single digit
+- Perform basic operations: `+`, `-`, `×`, `÷`
+- `AC` to clear, `DEL` to delete digits
+- Stylish dark theme using CSS Grid
+- Responsive layout for all devices
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Technologies
 
-- 🌐 HTML5
-- 🎨 CSS3 (Grid Layout)
-- ⚙️ JavaScript (DOM Manipulation)
-
----
-
-## 📷 Screenshot
-
-> You can add a screenshot named `preview.png` in the project root  
-> Or update the image URL in the badge above.
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-## 📁 Folder Structure
+## 🌐 Live Site
 
+👉 [View Live Calculator](https://kamleshyadav1122.github.io/calculator/)
+
+---
+
+## 📷 Screenshot Source
+
+Hosted on [Google Drive](https://drive.google.com/file/d/12Hv8IuTgCmKKA6M87NIaGEn-Agoi6J_k/view)
+
+---
+
+## 👨‍💻 Author
+
+**Kamlesh Yadav**  
+📧 kamlesh.dev1122@gmail.com  
+🔗 [GitHub](https://github.com/KAMLESHYADAV1122)
+
+---
+
+## ⭐ Like It?
+
+Give it a ⭐ on GitHub and share!
