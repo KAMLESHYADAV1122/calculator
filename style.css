@@ -1,0 +1,51 @@
+.calculator {
+  display: grid;
+  grid-template-rows: minmax(80px, auto) repeat(5, 60px);
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  background-color: hsl(220, 6%, 10%);
+  padding: 1.4rem;
+  border-radius: 12px;
+  gap: 0.7rem;
+  max-width: 300px;
+  margin: 50px auto;
+}
+
+.calculator button {
+  border: none;
+  font-family: inherit;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: hsl(204, 100%, 50%);
+  background-color: hsl(230, 6%, 20%);
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.calculator button:hover {
+  background-color: hsl(230, 6%, 30%);
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+.calculator > .output {
+  font-size: 2rem;
+  background-color: inherit;
+  color: white;
+  grid-column: 1 / -1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding: 0.5rem;
+  word-break: break-word;
+  border-radius: inherit;
+}
+
+.output .prev-display {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: hsl(0, 0%, 65%);
+}
